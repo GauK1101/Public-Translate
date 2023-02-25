@@ -1,3 +1,0 @@
-Cơ Bản,Loại 1,Loại 2
-auto,en,jp,zh
-vi,en
