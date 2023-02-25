@@ -24,7 +24,7 @@ với mình nhé, vì mình cx chưa test dc nhiều game nên cx k rõ nó có 
 		"Private Universe","Private Universe";
 		"Pair Mobile App","Pair Mobile App";
 - Các loại text dịch nó có cấc điều kiện khác nhau, 
-	+ Đối với loại "cơ bản", bạn chỉ cần nhập từ hay một văn bản cần dịch, sau dó chỉnh ngôn ngữ cần dịch -> ngôn ngữ cần dịch dưới chữ Transale, sau đó bấm Translate vad đợi
+	+ Đối với loại "cơ bản", bạn chỉ cần nhập từ hay một văn bản cần dịch, sau dó chỉnh ngôn ngữ cần dịch -> ngôn ngữ cần dịch dưới chữ Transale, sau đó bấm Translate và đợi
 	+ Với "Loại 1", chúng ta cần có điều kiện và file text để dịch. Ví dụ như file này:
 			{
 				"Id": 10017,
@@ -37,7 +37,7 @@ với mình nhé, vì mình cx chưa test dc nhiều game nên cx k rõ nó có 
 				"SoundID": 0,
 				"LoopSound": 0
 			},
-		điều kiện bạn có thể lấy "	"Message": " hoặc "	"KeyName": " háy tương tự như những cái khác, nó sẽ trả về cái tương tự nhưng đã được dịch ở dòng bạn chọn.
+		điều kiện bạn có thể lấy "	"Message": " hoặc "	"KeyName": " hay tương tự như những cái khác (Các bạn cẩn thận trong việc copy, đừng bỏ qua kể cả là khoảng trống, nếu không nó có thể khi dịch xong nó chả ra cái j cả !), nó sẽ trả về cái tương tự nhưng đã được dịch ở dòng bạn chọn.
 	+ Đối với "Loại 2", Chúng ta cần chọn cột để dịch. Ví dụ như cái này:
 			,次へ,Next,,,
 			,キャンセル,Cancel,,,
